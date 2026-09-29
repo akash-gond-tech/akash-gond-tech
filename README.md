@@ -1,4 +1,11 @@
+Hi 👋 My name is Akash Gond
+===========================
 
+Aspiring Python Developer | Automation Testing Enthusiast
+---------------------------------------------------------
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [akash2005gond@gmail.com](mailto:akash2005gond@gmail.com)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashgond.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-gond-972354309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash2005gond@gmail.com) 
 
@@ -9,11 +16,4 @@
 ![](https://streak-stats.demolab.com/?user=akash-gond-tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akash-gond-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Hi 👋 My name is Akash Gond
-===========================
 
-Aspiring Python Developer | Automation Testing Enthusiast
----------------------------------------------------------
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [akash2005gond@gmail.com](mailto:akash2005gond@gmail.com)
