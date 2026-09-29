@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi,I'm Akash 👋
 
 <!--
 **akash-gond-tech/akash-gond-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
