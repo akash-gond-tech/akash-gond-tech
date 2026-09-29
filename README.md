@@ -9,16 +9,11 @@
 ![](https://streak-stats.demolab.com/?user=akash-gond-tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akash-gond-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akash-gond-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Hi 👋 My name is Akash Gond
+===========================
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Aspiring Python Developer | Automation Testing Enthusiast
+---------------------------------------------------------
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akash-gond-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=akash-gond-tech&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🌍  I'm based in India
+* ✉️  You can contact me at [akash2005gond@gmail.com](mailto:akash2005gond@gmail.com)
