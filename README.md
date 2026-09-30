@@ -1,14 +1,3 @@
+<div align="center">
 
-Hi 👋 My name is Akash Gond
-===========================
-
-Aspiring Python Developer | Automation Testing Enthusiast
----------------------------------------------------------
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [akash2005gond@gmail.com](mailto:akash2005gond@gmail.com)
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-gond-972354309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash2005gond@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=pytest&logoColor=ffdd54)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:0077B5,100:00C9A7&height=230&section=header&text=Akash%20Gond%20tech&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Operations%20Engineer%20%7C%20DevOps%20%7C%20SRE&descAlignY=60&descSize=18" width="100%" alt="Akash Gond header"/>
